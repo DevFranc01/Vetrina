@@ -1,6 +1,6 @@
-   target/
-   nbproject/private/
-   *.xlsx
-   *.xls
-   *.csv
-   dados/
+target/
+nbproject/private/
+*.xlsx
+*.xls
+*.csv
+dados/
