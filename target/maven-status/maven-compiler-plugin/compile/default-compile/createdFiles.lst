@@ -1,6 +1,7 @@
 com\icaro\Vetrina\model\TipoPeca.class
+com\icaro\Vetrina\model\Peca.class
 com\icaro\Vetrina\service\CalculadoraPreco.class
 com\icaro\Vetrina\model\RegraPreco.class
+com\icaro\Vetrina\service\AnalisadorGiro.class
 com\icaro\Vetrina\Main.class
 com\icaro\Vetrina\model\EstadoPeca.class
-com\icaro\Vetrina\model\Peca.class
